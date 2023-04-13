@@ -9,6 +9,16 @@
 "ratings":"4.0",
 "Info":"This is Multi ginseng capsules"
 
-        }
+        },
+        {
+            "id":"1",
+            "availability":"New",
+            "image":"https://cdn.shopify.com/s/files/1/0066/7569/3639/products/NMHL000117PK000616SUPERDnffront_240x.png?v=1658869019",
+            "name":"Multi + Ginseng Capsules",
+            "price":"$24.99",
+            "ratings":"4.0",
+            "Info":"This is Multi ginseng capsules"
+            
+                    }
     ]
 }
